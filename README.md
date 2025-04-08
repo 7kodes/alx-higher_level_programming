@@ -8,4 +8,5 @@ High level programming are covered in details here; with Python, JavaScript, and
 
 - Epileptic power supply 
 - Epileptic internet access 
+- Non-enabling environment
 
